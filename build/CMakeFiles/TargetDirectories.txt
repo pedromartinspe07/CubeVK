@@ -1,0 +1,3 @@
+C:/Users/pedro/OneDrive/Documentos/Documentos/minecraft-clone/build/CMakeFiles/mc.dir
+C:/Users/pedro/OneDrive/Documentos/Documentos/minecraft-clone/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/pedro/OneDrive/Documentos/Documentos/minecraft-clone/build/CMakeFiles/ZERO_CHECK.dir
